@@ -1,0 +1,1 @@
+This repository contains an Optical Character Recognition (OCR) application that was originally designed to run on a GPU. This README will guide you through the steps to convert the OCR application to run on a CPU instead of a GPU.
